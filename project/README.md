@@ -1,4 +1,4 @@
-Developing Data Products Project - LEGO Sets Visualization  
+Developing Data Products Project - LEGO Sets Viewer  
 ==========================================================
 
 This Shiny App is for searching and visulizating LEGO Sets information.    
